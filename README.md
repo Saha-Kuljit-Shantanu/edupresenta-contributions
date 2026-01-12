@@ -4,11 +4,11 @@
    - Preparing the **slide templates** and **schema**
    - Designing the logo or face of the system
    - Designing the intro slides 
-   - Designing the system usability survey Questionnaires
+   - Designing a part of the **system usability** survey Questionnaires
 
 2. **User side**  
-   - Designing the background and teaching side survey Questionnaires
-   - Gathering eligible participants for the survey
+   - Designing the **background**, **cognitive** and **pedagogical side** study Questionnaires
+   - Gathering eligible participants for the study
    - Conducting the in-field survey(Form fill out or interview)
 
 -----------------------------------------------------------------------------
