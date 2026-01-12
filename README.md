@@ -8,8 +8,8 @@
 
 2. **User side**  
    - Designing the background and teaching side survey Questionnaires
-   - Gathering eligible paricipants for the survey
-   - Conducting the in field survey(Form fill out or interview)
+   - Gathering eligible participants for the survey
+   - Conducting the in-field survey(Form fill out or interview)
 
 -----------------------------------------------------------------------------
 
