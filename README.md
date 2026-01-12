@@ -9,7 +9,7 @@
 2. **User side**  
    - Designing the **background**, **cognitive** and **pedagogical side** study Questionnaires
    - Gathering eligible participants for the study
-   - Conducting the in-field survey(Form fill out or interview)
+   - Conducting the in-field survey (Form fill out or interview)
 
 -----------------------------------------------------------------------------
 
